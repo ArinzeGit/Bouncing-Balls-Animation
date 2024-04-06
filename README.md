@@ -1,4 +1,5 @@
 # Bouncing Balls Animation
+![](assets/BouncingBallScreenshot.PNG)
 ## Context and Description
 This project contains balls bouncing around in a canvas element, changing direction when they hit vertical or horizontal boundaries. I did this project to practice animation using the HTML Canvas element.
 ## How to run
